@@ -1,0 +1,5 @@
+downloads/
+*.mp4
+*.part
+.downloaded.txt
+__pycache__/
